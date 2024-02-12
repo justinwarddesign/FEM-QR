@@ -40,10 +40,14 @@ body{
     gap: .8em;
     margin: 0 1rem;
 }
-.card h3{
+.card h1{
     text-wrap: balance;
     line-height: 1.5rem;
     color: var(--dark-blue);
+}
+.card  h2{
+    font-weight: 400;
+    font-size: 1rem;
 }
 .card img{
     width: 100%;
